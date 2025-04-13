@@ -1,0 +1,165 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: Arial, sans-serif;
+}
+body {
+    background: url('/images/Login.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+
+/* Apply Frosted Glass Effect to the Brand List Table */
+.frosted-table {
+    background: rgba(255, 255, 255, 0.2); /* Semi-transparent white */
+    backdrop-filter: blur(10px); /* Frosted Glass Effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari Support */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+    /* Ensure table text is readable */
+    .frosted-table th,
+    .frosted-table td {
+        background: rgba(255, 255, 255, 0.3); /* Slightly more opaque for readability */
+        padding: 10px;
+        text-align: center;
+        color: black; /* Ensure good contrast */
+    }
+
+    /* Improve table borders */
+    .frosted-table th {
+        font-weight: bold;
+        background: rgba(255, 255, 255, 0.4); /* Slightly darker for header */
+    }
+
+    /* Make Update buttons stand out */
+    .frosted-table button {
+        background-color: rgba(0, 123, 255, 0.7);
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .frosted-table button:hover {
+            background-color: rgba(0, 123, 255, 1);
+        }
+
+/* 🔹 Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f8f9fa;
+}
+
+/* 🔹 Brand Logo Styling */
+td img {
+    display: block;
+    margin: auto;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+
+
+.updateButton, .deleteButton {
+    padding: 5px 10px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.updateButton {
+    background-color: #28a745;
+    color: white;
+}
+
+.deleteButton {
+    background-color: #dc3545;
+    color: white;
+}
+
+.updateButton:hover {
+    background-color: #218838;
+}
+
+.deleteButton:hover {
+    background-color: #c82333;
+}
+
+/* 🔹 Centering Page Container */
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* 🔹 Centering Form */
+.form-container {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.navbar {
+    background-color: #F7D794 !important; /* Soft Yellow-Beige */
+    border-bottom: 2px solid #E0A800; /* Slightly darker for contrast */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+    .navbar a {
+        color: #5C4B31 !important; /* Dark brown for readability */
+        font-weight: bold;
+    }
+
+        .navbar a:hover {
+            color: #3A2F1E !important; /* Slightly darker on hover */
+        }
+footer {
+    position: fixed; /* Fix it to the bottom */
+    bottom: 0; /* Align to bottom */
+    left: 0;
+    width: 100%; /* Make it full width */
+    height:8%;
+    background:#28a745;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+    z-index: 1000;
+}

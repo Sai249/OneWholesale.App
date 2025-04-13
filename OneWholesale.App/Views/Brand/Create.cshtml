@@ -1,0 +1,120 @@
+﻿@model OneWholesale.Model.Models.Brand
+
+@{
+    ViewData["Title"] = Model?.Id > 0 ? "Update Brand" : "Create Brand";
+}
+@Html.AntiForgeryToken()
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" />
+
+<div class="brand-form-container frosted-container">
+    <h2 style="text-align: center; background-color: #FDF5E6; padding: 10px; border-radius: 5px; color: #333;">
+        @(Model?.Id > 0 ? "Update Brand" : "Create Brand")
+    </h2>
+
+    <form id="createBrandForm" enctype="multipart/form-data" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" id="Id" name="Id" value="@Model?.Id" />
+
+        <!-- Brand Name -->
+        <div class="form-group frosted-input">
+            <label for="BrandName" class="frosted-label">Brand Name:</label>
+            <input id="BrandName" name="BrandName" value="@Model?.BrandName" class="form-control frosted-textbox" required />
+        </div>
+
+        <!-- Brand Logo -->
+        <div class="form-group frosted-input">
+            <label class="frosted-label">Brand Logo:</label>
+            <input type="file" name="CompanyLogo" id="CompanyLogo" accept="image/*" class="form-control frosted-file" />
+        </div>
+
+        <!-- Logo Preview -->
+        <div id="previewContainer" style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
+            <img id="logoPreview" src="@Model?.CompanyLogo" alt="Logo Preview"
+                 style="max-width: 100px; max-height: 100px; display: @(string.IsNullOrEmpty(Model?.CompanyLogo) ? "none" : "block"); border-radius: 5px;" />
+        </div>
+
+        <!-- Buttons -->
+        <div class="button-group mt-3">
+            <button type="button" id="saveBrandBtn" class="btn btn-primary">
+                @(Model?.Id > 0 ? "Update" : "Save")
+            </button>
+            <a asp-action="BrandList" asp-controller="Brand" class="btn btn-secondary">View Brands</a>
+        </div>
+    </form>
+</div>
+
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+<script>
+    // Logo Preview
+    $("#CompanyLogo").on("change", function (e) {
+        const file = e.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                $("#logoPreview").attr("src", e.target.result).show();
+            };
+            reader.readAsDataURL(file);
+        }
+    });
+
+    // AJAX Save
+    $("#saveBrandBtn").on("click", function () {
+        const formData = new FormData();
+        formData.append("BrandName", $("#BrandName").val());
+        formData.append("Id", $("#Id").val());
+
+        const logo = $("#CompanyLogo")[0].files[0];
+        if (logo) {
+            formData.append("CompanyLogo", logo); // ✅ Match PascalCase with controller
+        }
+
+        formData.append("__RequestVerificationToken", $('input[name="__RequestVerificationToken"]').val());
+
+        $.ajax({
+            url: "/Brand/Create",
+            method: "POST",
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function (res) {
+                if (res.success) {
+                    Toastify({
+                        text: res.message,
+                        duration: 3000,
+                        gravity: "top",
+                        position: "right",
+                        backgroundColor: "#28a745"
+                    }).showToast();
+
+                    // Reset form
+                    $("#BrandName").val("");
+                    $("#CompanyLogo").val("");
+                    $("#logoPreview").hide();
+                } else {
+                    Toastify({
+                        text: res.message || "Something went wrong.",
+                        duration: 3000,
+                        gravity: "top",
+                        position: "right",
+                        backgroundColor: "#ffc107"
+                    }).showToast();
+                }
+            },
+            error: function (xhr) {
+                Toastify({
+                    text: "Error: " + xhr.statusText,
+                    duration: 3000,
+                    gravity: "top",
+                    position: "right",
+                    backgroundColor: "#dc3545"
+                }).showToast();
+            }
+        });
+    });
+</script>

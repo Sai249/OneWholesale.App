@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\bin\Debug\net8.0\OneWholesale.Repository.deps.json
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\bin\Debug\net8.0\OneWholesale.Repository.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\bin\Debug\net8.0\OneWholesale.Repository.pdb
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\bin\Debug\net8.0\OneWholesale.Domain.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\bin\Debug\net8.0\OneWholesale.Model.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\bin\Debug\net8.0\OneWholesale.Model.pdb
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\bin\Debug\net8.0\OneWholesale.Domain.pdb
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWholesale.Repository.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWholesale.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWholesale.Repository.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWholesale.Repository.AssemblyInfo.cs
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWholesale.Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWhole.271C18E9.Up2Date
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWholesale.Repository.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\refint\OneWholesale.Repository.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\OneWholesale.Repository.pdb
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Repository\obj\Debug\net8.0\ref\OneWholesale.Repository.dll

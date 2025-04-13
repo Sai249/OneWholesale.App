@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\bin\Debug\net8.0\OneWholesale.Model.deps.json
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\bin\Debug\net8.0\OneWholesale.Model.dll
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\bin\Debug\net8.0\OneWholesale.Model.pdb
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\OneWholesale.Model.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\OneWholesale.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\OneWholesale.Model.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\OneWholesale.Model.AssemblyInfo.cs
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\OneWholesale.Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\OneWholesale.Model.dll
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\refint\OneWholesale.Model.dll
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\OneWholesale.Model.pdb
+C:\Users\USER\source\repos\OneWholesale.App\One.Wholesale.Model\obj\Debug\net8.0\ref\OneWholesale.Model.dll

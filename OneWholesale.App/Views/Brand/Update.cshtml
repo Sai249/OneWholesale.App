@@ -1,0 +1,57 @@
+﻿@model OneWholesale.Model.Models.Brand
+
+@{
+    ViewData["Title"] = "Update Brand";
+}
+
+<div class="container mt-5">
+    <div class="card shadow rounded p-4">
+        <h2 class="text-center mb-4">Update Brand</h2>
+
+        @if (ViewBag.SuccessMessage != null)
+        {
+            <div class="alert alert-success text-center">@ViewBag.SuccessMessage</div>
+        }
+
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="alert alert-danger text-center">@ViewBag.ErrorMessage</div>
+        }
+
+        <form asp-action="UpdateBrand" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group mb-3">
+                <label asp-for="BrandName" class="form-label">Brand Name</label>
+                <input asp-for="BrandName" class="form-control" />
+                <span asp-validation-for="BrandName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="form-label">Current Logo</label><br />
+                @if (!string.IsNullOrEmpty(Model.CompanyLogo))
+                {
+                    <img src="@Url.Content(Model.CompanyLogo)" width="120" class="img-thumbnail" />
+                }
+                else
+                {
+                    <span class="text-muted">No logo available</span>
+                }
+            </div>
+
+            <div class="form-group mb-4">
+                <label class="form-label">Upload New Logo</label>
+                <input type="file" name="companyLogo" class="form-control" />
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-success px-4">Update</button>
+                <a asp-action="BrandList" class="btn btn-secondary px-4 ms-2">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,170 @@
+﻿@model List<OneWholesale.Model.Models.Brand>
+
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (Model == null)
+{
+    <p>Model is NULL</p>
+}
+else
+{
+    <p>Total Brands: @Model.Count</p>
+}
+
+<div id="brandList">
+    <table class="table frosted-table">
+        <caption class="brand-list-caption">
+            BRAND LIST
+        </caption>
+        <thead>
+            <tr>
+                <th>Brand Name</th>
+                <th>Company Logo</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Any())
+            {
+                @foreach (var brand in Model)
+                {
+                    <tr id="brand-row-@brand.Id">
+                        <td>
+                            <span id="brandName_@brand.Id">@brand.BrandName</span>
+                        </td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(brand.CompanyLogo))
+                            {
+                                <img src="@Url.Content(brand.CompanyLogo)" alt="Logo" class="company-logo" />
+                            }
+                            else
+                            {
+                                <span>No Logo</span>
+                            }
+                        </td>
+                        <td>
+                            <div class="d-flex gap-2">
+                                <a href="@Url.Action("Edit", "Brand", new { id = brand.Id })" class="btn btn-primary">
+                                    <i class="fas fa-edit"></i> Update
+                                </a>
+                                <button class="btn btn-danger delete-brand-btn"
+                                        data-id="@brand.Id"
+                                        data-token="@Antiforgery.GetAndStoreTokens(Context).RequestToken">
+                                    <i class="fas fa-trash"></i> Delete
+                                </button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center">No brands found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    .brand-list-caption {
+        caption-side: top;
+        font-size: 1.8em;
+        font-weight: bold;
+        padding: 10px;
+        background-color: #FDF5E6;
+        border-radius: 5px;
+        text-align: center;
+        width: 100%;
+        color: #8B4513;
+        font-family: 'Poppins', sans-serif;
+        letter-spacing: 1px;
+    }
+
+    .frosted-table {
+        background: rgba(255, 255, 255, 0.2);
+        backdrop-filter: blur(5px);
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        width: 100%;
+    }
+
+        .frosted-table th, .frosted-table td {
+            background: rgba(255, 255, 255, 0.3);
+            padding: 10px;
+            text-align: center;
+            color: black;
+        }
+
+    .company-logo {
+        width: 50px;
+        height: auto;
+        border-radius: 5px;
+    }
+
+    .btn {
+        padding: 5px 10px;
+        font-size: 14px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-danger {
+        background-color: red;
+        border-color: red;
+        color: white;
+    }
+
+        .btn-danger:hover {
+            background-color: darkred;
+        }
+</style>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).on("click", ".delete-brand-btn", function () {
+        const id = $(this).data("id");
+        const token = $(this).data("token");
+
+        if (!confirm("Are you sure you want to delete this brand?")) return;
+
+        fetch(`/Brand/DeleteBrand/${id}`, {
+            method: "POST",
+            headers: {
+                "RequestVerificationToken": token
+            }
+        })
+        .then(res => {
+            if (!res.ok) throw new Error("Network response failed");
+            return res.json();
+        })
+        .then(data => {
+            if (data.success) {
+                $(`#brand-row-${id}`).remove();
+                alert(data.message);
+            } else {
+                alert(data.message || "Delete failed.");
+            }
+        })
+        .catch(err => {
+            console.error("Delete error:", err);
+            alert("Error deleting brand.");
+        });
+    });
+</script>

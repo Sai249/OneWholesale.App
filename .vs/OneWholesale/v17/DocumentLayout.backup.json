@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\views\\brand\\brandlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\views\\brand\\brandlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F6A1-5C6A-4977-BDC2-3DB9BEC09C51}|One.Wholesale.Model\\OneWholesale.Model.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\one.wholesale.model\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F6A1-5C6A-4977-BDC2-3DB9BEC09C51}|One.Wholesale.Model\\OneWholesale.Model.csproj|solutionrelative:one.wholesale.model\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\container\\customcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\container\\customcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F6A1-5C6A-4977-BDC2-3DB9BEC09C51}|One.Wholesale.Model\\OneWholesale.Model.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\one.wholesale.model\\models\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F6A1-5C6A-4977-BDC2-3DB9BEC09C51}|One.Wholesale.Model\\OneWholesale.Model.csproj|solutionrelative:one.wholesale.model\\models\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067F6A1-5C6A-4977-BDC2-3DB9BEC09C51}|One.Wholesale.Model\\OneWholesale.Model.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\one.wholesale.model\\models\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3067F6A1-5C6A-4977-BDC2-3DB9BEC09C51}|One.Wholesale.Model\\OneWholesale.Model.csproj|solutionrelative:one.wholesale.model\\models\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\repositories\\repository\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\repositories\\repository\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\dbfactory\\dbowconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\dbfactory\\dbowconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\repositories\\repository\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\repositories\\repository\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\dbfactory\\idbowconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\dbfactory\\idbowconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\repositories\\interface\\iauthenticationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\repositories\\interface\\iauthenticationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\repositories\\repository\\authenticationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\repositories\\repository\\authenticationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.app\\onewholesale.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95961E3A-BA49-4792-ADBD-74120B742B8A}|OneWholesale.App\\OneWholesale.App.csproj|solutionrelative:onewholesale.app\\onewholesale.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|c:\\users\\user\\source\\repos\\onewholesale.app\\onewholesale.repository\\repositories\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F660E8D-6E52-44C1-B222-D70D8C58C5BE}|OneWholesale.Repository\\OneWholesale.Repository.csproj|solutionrelative:onewholesale.repository\\repositories\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Program.cs",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Program.cs",
+              "RelativeToolTip": "OneWholesale.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:30:14.138Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "OneWholesale.App\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T09:11:15.842Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "OneWholesale.App\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAIwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:55:00.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "OneWholesale.App\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "OneWholesale.App\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-10T11:17:56.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandList.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\BrandList.cshtml",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Views\\Brand\\BrandList.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\BrandList.cshtml",
+              "RelativeToolTip": "OneWholesale.App\\Views\\Brand\\BrandList.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T09:00:15.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\One.Wholesale.Model\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "One.Wholesale.Model\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\One.Wholesale.Model\\Models\\Brand.cs",
+              "RelativeToolTip": "One.Wholesale.Model\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:50:05.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Repository\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\Repositories\\Repository\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Repository\\IBrandRepository.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\Repositories\\Repository\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:35:09.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\Update.cshtml",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Views\\Brand\\Update.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\Update.cshtml",
+              "RelativeToolTip": "OneWholesale.App\\Views\\Brand\\Update.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T06:31:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbOWConnection.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\DbFactory\\DbOWConnection.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\DbFactory\\DbOWConnection.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\DbFactory\\DbOWConnection.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\DbFactory\\DbOWConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:02:49.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Repository\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\Repositories\\Repository\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Repository\\BrandRepository.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\Repositories\\Repository\\BrandRepository.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:01:34.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "OneWholesale.App\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T06:31:59.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDbOWConnection.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\DbFactory\\IDbOWConnection.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\DbFactory\\IDbOWConnection.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\DbFactory\\IDbOWConnection.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\DbFactory\\IDbOWConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:07:59.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OneWholesale.App\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\appsettings.Development.json",
+              "RelativeToolTip": "OneWholesale.App\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T06:35:45.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "OneWholesale.App\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "OneWholesale.App\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T09:24:35.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OneWholesale.App\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:18:54.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OneWholesale.App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T06:21:04.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\One.Wholesale.Model\\Models\\ISqlDataAccess.cs",
+              "RelativeDocumentMoniker": "One.Wholesale.Model\\Models\\ISqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\One.Wholesale.Model\\Models\\ISqlDataAccess.cs",
+              "RelativeToolTip": "One.Wholesale.Model\\Models\\ISqlDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:35:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\One.Wholesale.Model\\Models\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "One.Wholesale.Model\\Models\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\One.Wholesale.Model\\Models\\SqlDataAccess.cs",
+              "RelativeToolTip": "One.Wholesale.Model\\Models\\SqlDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:12:43.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OneWholesale.App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OneWholesale.App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T07:19:30.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OneWholesale.App.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\OneWholesale.App.csproj",
+              "RelativeDocumentMoniker": "OneWholesale.App\\OneWholesale.App.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\OneWholesale.App.csproj",
+              "RelativeToolTip": "OneWholesale.App\\OneWholesale.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T06:30:20.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomContainer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Container\\CustomContainer.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\Container\\CustomContainer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Container\\CustomContainer.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\Container\\CustomContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:58:35.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthenticationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Repository\\AuthenticationRepo.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\Repositories\\Repository\\AuthenticationRepo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Repository\\AuthenticationRepo.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\Repositories\\Repository\\AuthenticationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:54:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthenticationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Interface\\IAuthenticationRepo.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\Repositories\\Interface\\IAuthenticationRepo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Interface\\IAuthenticationRepo.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\Repositories\\Interface\\IAuthenticationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:54:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Base\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\Repositories\\Base\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Base\\IBaseRepository.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\Repositories\\Base\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:53:11.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "OneWholesale.Repository\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.Repository\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "OneWholesale.Repository\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:52:42.517Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 368,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

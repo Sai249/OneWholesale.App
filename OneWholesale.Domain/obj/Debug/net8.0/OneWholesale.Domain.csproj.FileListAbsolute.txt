@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\bin\Debug\net8.0\OneWholesale.Domain.deps.json
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\bin\Debug\net8.0\OneWholesale.Domain.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\bin\Debug\net8.0\OneWholesale.Domain.pdb
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\bin\Debug\net8.0\OneWholesale.Model.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\bin\Debug\net8.0\OneWholesale.Model.pdb
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWholesale.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWholesale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWholesale.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWholesale.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWholesale.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWhole.BE7CC5CA.Up2Date
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWholesale.Domain.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\refint\OneWholesale.Domain.dll
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\OneWholesale.Domain.pdb
+C:\Users\USER\source\repos\OneWholesale.App\OneWholesale.Domain\obj\Debug\net8.0\ref\OneWholesale.Domain.dll

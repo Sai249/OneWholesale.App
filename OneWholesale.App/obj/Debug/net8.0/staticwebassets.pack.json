@@ -1,0 +1,549 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OneWholesale.App.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OneWholesale.App.z9dyvtmiar.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\images\\Login.jpg",
+      "PackagePath": "staticwebassets\\images\\Login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\0872188d-b84c-4599-ad84-f56c9b27c247.png",
+      "PackagePath": "staticwebassets\\uploads\\0872188d-b84c-4599-ad84-f56c9b27c247.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\0c184fb8-2850-42cc-9f33-30d626ffe29d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0c184fb8-2850-42cc-9f33-30d626ffe29d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\1.webp",
+      "PackagePath": "staticwebassets\\uploads\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\14460a23-96f7-477e-be22-63a94dc01344.png",
+      "PackagePath": "staticwebassets\\uploads\\14460a23-96f7-477e-be22-63a94dc01344.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\1908b20d-b8ad-4638-8d0d-8e4eb2e1065b.png",
+      "PackagePath": "staticwebassets\\uploads\\1908b20d-b8ad-4638-8d0d-8e4eb2e1065b.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\1a2f39be-07de-463b-87c4-0cc6e9bab6bc.png",
+      "PackagePath": "staticwebassets\\uploads\\1a2f39be-07de-463b-87c4-0cc6e9bab6bc.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\1e00bea8-fda7-4f6c-90be-e4dfa00175bd.png",
+      "PackagePath": "staticwebassets\\uploads\\1e00bea8-fda7-4f6c-90be-e4dfa00175bd.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\23f09198-e888-46b9-bb5d-58e7b2ce71d1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\23f09198-e888-46b9-bb5d-58e7b2ce71d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\278d051c-72c4-4802-aa15-8451b32c61b9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\278d051c-72c4-4802-aa15-8451b32c61b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\297f6f0b-d7fc-4068-a8b0-7ca0cc471a6a.png",
+      "PackagePath": "staticwebassets\\uploads\\297f6f0b-d7fc-4068-a8b0-7ca0cc471a6a.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\2a6346ba-590c-48d2-acd7-95ca8365d9bc.png",
+      "PackagePath": "staticwebassets\\uploads\\2a6346ba-590c-48d2-acd7-95ca8365d9bc.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\33f20855-b324-4e3c-b629-f9ba37de0179.png",
+      "PackagePath": "staticwebassets\\uploads\\33f20855-b324-4e3c-b629-f9ba37de0179.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\38419e83-55de-4ce3-8305-d9316e556dc7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\38419e83-55de-4ce3-8305-d9316e556dc7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\394a7365-3b0d-4923-aa37-871b81624c7a.png",
+      "PackagePath": "staticwebassets\\uploads\\394a7365-3b0d-4923-aa37-871b81624c7a.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\39940dcc-35a3-42c6-9c7d-22e9b6db2c79.jpg",
+      "PackagePath": "staticwebassets\\uploads\\39940dcc-35a3-42c6-9c7d-22e9b6db2c79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\3b1322b9-f5ff-4785-aef0-4324f5cb3daa.png",
+      "PackagePath": "staticwebassets\\uploads\\3b1322b9-f5ff-4785-aef0-4324f5cb3daa.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\41fe9e3f-9c96-4012-848e-99174c194f04.webp",
+      "PackagePath": "staticwebassets\\uploads\\41fe9e3f-9c96-4012-848e-99174c194f04.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\46d5bb22-4e00-4722-82ff-78ac42a5dd23.png",
+      "PackagePath": "staticwebassets\\uploads\\46d5bb22-4e00-4722-82ff-78ac42a5dd23.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\485c6f9b-5474-4a04-8417-c5b0ec919ba2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\485c6f9b-5474-4a04-8417-c5b0ec919ba2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\4d115499-57e4-42d7-968a-3194e10c8d39.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4d115499-57e4-42d7-968a-3194e10c8d39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\544152ff-e829-4484-8359-e35a1371f08a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\544152ff-e829-4484-8359-e35a1371f08a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\54f7b889-5036-4a5a-b199-fffa78121c28.png",
+      "PackagePath": "staticwebassets\\uploads\\54f7b889-5036-4a5a-b199-fffa78121c28.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\584fefcd-f240-4f15-8df4-1caad6a0277c.webp",
+      "PackagePath": "staticwebassets\\uploads\\584fefcd-f240-4f15-8df4-1caad6a0277c.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\58bf8b63-3303-4081-84d9-61ca1d288a46.jpg",
+      "PackagePath": "staticwebassets\\uploads\\58bf8b63-3303-4081-84d9-61ca1d288a46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\63d1fb48-c4f5-432a-a41f-423772bb53b4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\63d1fb48-c4f5-432a-a41f-423772bb53b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\690581e9-8ea8-4863-8921-4e66b2583b36.png",
+      "PackagePath": "staticwebassets\\uploads\\690581e9-8ea8-4863-8921-4e66b2583b36.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\6b4e96b0-11c0-4709-83b3-5891610a6a16.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6b4e96b0-11c0-4709-83b3-5891610a6a16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\6e9a02d6-3a2a-48d0-aff0-b3f2890ad7cd.png",
+      "PackagePath": "staticwebassets\\uploads\\6e9a02d6-3a2a-48d0-aff0-b3f2890ad7cd.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\6f059d42-ad71-4f32-ab42-281fd5392c8e.png",
+      "PackagePath": "staticwebassets\\uploads\\6f059d42-ad71-4f32-ab42-281fd5392c8e.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\6f114c1d-4b5b-4b4d-83bb-56418bd91310.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6f114c1d-4b5b-4b4d-83bb-56418bd91310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\73e5951d-0eb1-4fe0-bc51-32c45ff3911d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\73e5951d-0eb1-4fe0-bc51-32c45ff3911d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\75bb1d2e-9a19-404d-93c2-101264e721c7.png",
+      "PackagePath": "staticwebassets\\uploads\\75bb1d2e-9a19-404d-93c2-101264e721c7.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\7e628336-3aa2-4b4d-9b3a-d8378d0f9c80.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7e628336-3aa2-4b4d-9b3a-d8378d0f9c80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\7e933c7d-1bc2-451f-9cdd-c7f2631e1411.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\7e933c7d-1bc2-451f-9cdd-c7f2631e1411.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\80c86f21-2f4c-4f24-92e6-45f5985c2128.jpg",
+      "PackagePath": "staticwebassets\\uploads\\80c86f21-2f4c-4f24-92e6-45f5985c2128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\81dbfda9-2bec-42b2-9c1f-a346792e27c6.png",
+      "PackagePath": "staticwebassets\\uploads\\81dbfda9-2bec-42b2-9c1f-a346792e27c6.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\8eea0f39-27ec-4553-a1cc-6a663e9808a7.png",
+      "PackagePath": "staticwebassets\\uploads\\8eea0f39-27ec-4553-a1cc-6a663e9808a7.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\8fd2fcd1-e6bc-4fb7-8b29-990f74c410b9.png",
+      "PackagePath": "staticwebassets\\uploads\\8fd2fcd1-e6bc-4fb7-8b29-990f74c410b9.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\90bfdaec-fe83-4507-bb75-4fac69e11cbb.png",
+      "PackagePath": "staticwebassets\\uploads\\90bfdaec-fe83-4507-bb75-4fac69e11cbb.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\97e970b4-08b7-4583-b55d-673e5cb9c8e8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\97e970b4-08b7-4583-b55d-673e5cb9c8e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\97e9aabd-bd88-47c1-91a2-aa8f4e70c64b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\97e9aabd-bd88-47c1-91a2-aa8f4e70c64b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\Color-YouTube-logo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Color-YouTube-logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\IMG_20200907_140532_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\IMG_20200907_140532_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\Login.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\Screenshot 2.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\a44b0688-c3b8-4fec-8d27-0d3c1fd9b617.png",
+      "PackagePath": "staticwebassets\\uploads\\a44b0688-c3b8-4fec-8d27-0d3c1fd9b617.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\a53d5536-ab50-46a4-a848-ebae95030c03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a53d5536-ab50-46a4-a848-ebae95030c03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\a7cea2b3-445f-4291-91a9-577afef1e81e.png",
+      "PackagePath": "staticwebassets\\uploads\\a7cea2b3-445f-4291-91a9-577afef1e81e.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\a82da122-251f-442d-ae27-d8ac9c18295e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a82da122-251f-442d-ae27-d8ac9c18295e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\ad642560-764a-4b62-8b9e-166ce8df487d.png",
+      "PackagePath": "staticwebassets\\uploads\\ad642560-764a-4b62-8b9e-166ce8df487d.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\ad6f73d8-4bd3-448f-a6cd-61c4d1e27f90.webp",
+      "PackagePath": "staticwebassets\\uploads\\ad6f73d8-4bd3-448f-a6cd-61c4d1e27f90.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\af37da76-83e3-4a4a-9091-8b1b48027a31.png",
+      "PackagePath": "staticwebassets\\uploads\\af37da76-83e3-4a4a-9091-8b1b48027a31.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\b94ccdf3-3eeb-43dd-aebd-45e1bc1c572c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b94ccdf3-3eeb-43dd-aebd-45e1bc1c572c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\bc43bb39-a566-412c-939a-70eceec0c519.png",
+      "PackagePath": "staticwebassets\\uploads\\bc43bb39-a566-412c-939a-70eceec0c519.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\bf5e23e1-4bf4-4dd4-ad34-0b146b1a8235.png",
+      "PackagePath": "staticwebassets\\uploads\\bf5e23e1-4bf4-4dd4-ad34-0b146b1a8235.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\brand.jpg",
+      "PackagePath": "staticwebassets\\uploads\\brand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\channels4_profile.jpg",
+      "PackagePath": "staticwebassets\\uploads\\channels4_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\d04f8eea-3ade-41bf-a1f2-06fe04011152.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d04f8eea-3ade-41bf-a1f2-06fe04011152.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\db7048c9-f2ee-4d3c-b64d-550baa18428b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\db7048c9-f2ee-4d3c-b64d-550baa18428b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\dba61ea5-536c-4fd3-bdba-4ae0598829ec.png",
+      "PackagePath": "staticwebassets\\uploads\\dba61ea5-536c-4fd3-bdba-4ae0598829ec.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\e41472d8-20ed-4d83-bdde-1f83f484569f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e41472d8-20ed-4d83-bdde-1f83f484569f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\e56e57ea-2088-4128-94fc-1bc4c5b3b7fd.png",
+      "PackagePath": "staticwebassets\\uploads\\e56e57ea-2088-4128-94fc-1bc4c5b3b7fd.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\e89c64ad-50f5-4242-ba3c-fe8de8431ba5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e89c64ad-50f5-4242-ba3c-fe8de8431ba5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\f61e8648-0504-4e6c-b758-474cbde525b4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f61e8648-0504-4e6c-b758-474cbde525b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\f69be984-30b2-45c9-b284-59ec135debb2.png",
+      "PackagePath": "staticwebassets\\uploads\\f69be984-30b2-45c9-b284-59ec135debb2.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\f809ace7-6a82-4b49-8951-d87fceab689c.png",
+      "PackagePath": "staticwebassets\\uploads\\f809ace7-6a82-4b49-8951-d87fceab689c.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\f8651165-1168-4b3b-9692-268de850c648.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f8651165-1168-4b3b-9692-268de850c648.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\fbaf2eb3-3c48-4427-b601-476697476d26.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fbaf2eb3-3c48-4427-b601-476697476d26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\OneWholesale.App\\OneWholesale.App\\wwwroot\\uploads\\guest-house-building-for-lease.jpg",
+      "PackagePath": "staticwebassets\\uploads\\guest-house-building-for-lease.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OneWholesale.App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OneWholesale.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OneWholesale.App.props",
+      "PackagePath": "build\\OneWholesale.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OneWholesale.App.props",
+      "PackagePath": "buildMultiTargeting\\OneWholesale.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OneWholesale.App.props",
+      "PackagePath": "buildTransitive\\OneWholesale.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
